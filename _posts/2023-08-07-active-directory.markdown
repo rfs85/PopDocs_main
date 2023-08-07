@@ -18,8 +18,13 @@ For a penetration tester, AD presents a unique challenge and opportunity to unco
 ## Active Directory Enumeration
 One of the initial steps in assessing an AD environment is enumeration, the process of gathering information about users, groups, computers, and network configurations. Enumeration provides valuable insights that help you identify potential attack vectors and vulnerabilities.
 
+### Initial Access Techniques
+
+
 ### Enumeration Techniques
 
 - Lightweight Directory Access Protocol (LDAP) Queries: Interacting with AD using LDAP queries to retrieve information.
 - Network Scanning: Identifying live domain controllers and services associated with AD.
 - User and Group Enumeration: Obtaining a list of users, their roles, and group memberships.
+
+
