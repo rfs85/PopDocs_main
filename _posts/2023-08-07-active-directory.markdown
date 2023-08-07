@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Active Directory for Pentesters"
+categories: Dev
 date:   2023-06-13 10:55:47 +0530
 image: /images/Active-Directory.png
 categories: [Pentesting, Networking]
