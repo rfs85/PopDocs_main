@@ -12,6 +12,12 @@ You will gain a deep understanding of how data flows through networks, how devic
 
 Check out the [Intro][https://intro.popdocs.net/] for more info.
 
+<div class="alert alert-dismissible alert-success">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <h4>Warning!</h4>
+  <p>Best check yo self, you're not looking too good. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, <a href="#" class="alert-link">vel scelerisque nisl consectetur et</a>.</p>
+</div>
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
