@@ -9,7 +9,7 @@
 title: PopDocs Cyber Docs
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  PopDocs is a Free Cyber security content.
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
@@ -32,14 +32,14 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-xxxx-1
+analytics: G-WB8YYH3WJK
 
 # Comments
 disqus: yes
-disqus-shortname: poplabdev
+disqus-shortname: poplab
 
 #social
-facebook: http://facebook.com/
+facebook: https://www.facebook.com/PopLabResearch
 quora: http://quora.com/
 twitter: http://twitter.com/
 github: http://github.com/
@@ -47,9 +47,9 @@ email: your@email.com
 
 #facebook like box
 fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/
-fb-page-title: popdocs
+fb-app-id: xxxxxxxx
+fb-page-url: https://www.facebook.com/PopLabResearch
+fb-page-title: PopLabResearch
 
 # Sass style
 sass:
