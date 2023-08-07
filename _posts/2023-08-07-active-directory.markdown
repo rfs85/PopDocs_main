@@ -2,7 +2,7 @@
 layout: post
 title:  "Active Directory for Pentesters"
 date:   2023-06-13 10:55:47 +0530
-image: /images/image-1.png
+image: /images/Active-Directory.png
 categories: [Pentesting, Networking]
 ---
 Active Directory (AD) is a centralized directory service developed by Microsoft, widely used by organizations to manage and control access to network resources. 

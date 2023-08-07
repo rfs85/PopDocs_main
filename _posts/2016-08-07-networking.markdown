@@ -2,7 +2,7 @@
 layout: post
 title:  "Networking for Pentesters"
 date:   2023-06-13 10:51:47 +0530
-image: /images/image-1.png
+image: /images/Networking.png
 categories: [Pentesting, Networking]
 ---
 Networking is the backbone of our digital world, connecting devices, systems, and people across the globe. In this course, we will delve into the fundamental concepts, protocols, and technologies that enable communication and data exchange between computers and other devices. 
