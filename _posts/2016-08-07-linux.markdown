@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Linux for Pentesters"
+date:   2023-0807 10:51:47 +0530
+categories: jekyll update
+image: /images/image-1.png
+categories: [Pentesting, Linux]
+---
+Network penetration testing, often referred to as network pentesting or ethical hacking, is a critical discipline within cybersecurity that focuses on assessing the security of computer networks. 
+The primary goal of network pentesting is to identify weaknesses, vulnerabilities, and potential entry points that malicious actors could exploit to compromise a network's integrity, availability, or confidentiality.
+
+
+## Networking Essentials
+
+- OSI Model: Understanding the layered architecture helps in pinpointing vulnerabilities at various levels.
+- Protocols: In-depth knowledge of TCP/IP and other network protocols is essential for accurate analysis.
+- Subnetting and IP Addressing: Subnetting knowledge aids in identifying network segments and potential entry points.
+
+Check out the [Intro][https://intro.popdocs.net/] for more info.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

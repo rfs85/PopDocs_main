@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Introduction to Networking"
+title:  "Networking for Pentesters"
 date:   2023-06-13 10:51:47 +0530
 categories: jekyll update
 image: /images/image-1.png
-categories: [Pentesting, two]
+categories: [Pentesting, Networking]
 ---
 Networking is the backbone of our digital world, connecting devices, systems, and people across the globe. In this course, we will delve into the fundamental concepts, protocols, and technologies that enable communication and data exchange between computers and other devices. 
 You will gain a deep understanding of how data flows through networks, how devices communicate, and how the internet itself operates.
