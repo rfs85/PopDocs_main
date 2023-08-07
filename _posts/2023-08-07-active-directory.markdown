@@ -5,8 +5,9 @@ date:   2023-06-13 10:55:47 +0530
 image: /images/image-1.png
 categories: [Pentesting, Networking]
 ---
-Networking is the backbone of our digital world, connecting devices, systems, and people across the globe. In this course, we will delve into the fundamental concepts, protocols, and technologies that enable communication and data exchange between computers and other devices. 
-You will gain a deep understanding of how data flows through networks, how devices communicate, and how the internet itself operates.
+Active Directory (AD) is a centralized directory service developed by Microsoft, widely used by organizations to manage and control access to network resources. 
+It plays a pivotal role in maintaining user accounts, authentication, authorization, and network configurations in Windows-based environments. 
+For a penetration tester, AD presents a unique challenge and opportunity to uncover vulnerabilities that can lead to unauthorized access and data compromise.
 
 <div class="alert alert-dismissible alert-success">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
@@ -14,10 +15,11 @@ You will gain a deep understanding of how data flows through networks, how devic
   <p>To excel in network pentesting, a combination of technical skills, problem-solving abilities, and a curious mindset is essential. The path to becoming a skilled network pentester involves continuous learning, hands-on experience, and a commitment to staying updated with the latest security trends and techniques.</p>
 </div>
 
-## Skillset and Traits
+## Active Directory Enumeration
+One of the initial steps in assessing an AD environment is enumeration, the process of gathering information about users, groups, computers, and network configurations. Enumeration provides valuable insights that help you identify potential attack vectors and vulnerabilities.
 
-- Networking Proficiency: Master the intricacies of networking protocols, services, and infrastructure.
-- Critical Thinking: Analyze complex network behaviors and devise creative solutions to exploit vulnerabilities.
-- Continuous Learning: Stay up-to-date with emerging threats, tools, and defensive strategies.
+### Enumeration Techniques
 
-Check out the [https://intro.popdocs.net/][Intro] for more info.
+- Lightweight Directory Access Protocol (LDAP) Queries: Interacting with AD using LDAP queries to retrieve information.
+- Network Scanning: Identifying live domain controllers and services associated with AD.
+- User and Group Enumeration: Obtaining a list of users, their roles, and group memberships.
