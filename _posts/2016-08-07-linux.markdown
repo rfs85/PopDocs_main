@@ -16,6 +16,12 @@ The primary goal of network pentesting is to identify weaknesses, vulnerabilitie
 - Protocols: In-depth knowledge of TCP/IP and other network protocols is essential for accurate analysis.
 - Subnetting and IP Addressing: Subnetting knowledge aids in identifying network segments and potential entry points.
 
+## Ethical Guidelines
+
+- Permission: Always obtain written consent from the organization before initiating any pentesting activities.
+- Scope: Define the scope of testing, outlining the assets and areas that can be assessed.
+- Reporting: Document all findings accurately and promptly, assisting the organization in addressing vulnerabilities.
+
 Check out the [Intro][https://intro.popdocs.net/] for more info.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
