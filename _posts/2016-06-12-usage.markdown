@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Usage Guide"
-categories: jekyll update
+categories: [Pentesting, Networking]
 image: /images/image-2.png
 categories: two
 ---
