@@ -20,4 +20,4 @@ You will gain a deep understanding of how data flows through networks, how devic
 - Critical Thinking: Analyze complex network behaviors and devise creative solutions to exploit vulnerabilities.
 - Continuous Learning: Stay up-to-date with emerging threats, tools, and defensive strategies.
 
-Check out the [Intro][https://intro.popdocs.net/] for more info.
+Check out the [https://intro.popdocs.net/][Intro] for more info.
