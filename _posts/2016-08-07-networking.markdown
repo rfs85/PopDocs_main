@@ -10,8 +10,14 @@ You will gain a deep understanding of how data flows through networks, how devic
 
 <div class="alert alert-dismissible alert-success">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <h4>Warning!</h4>
-  <p>Best check yo self, you're not looking too good. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, <a href="#" class="alert-link">vel scelerisque nisl consectetur et</a>.</p>
+  <h4>Becoming a Network Pentester!</h4>
+  <p>To excel in network pentesting, a combination of technical skills, problem-solving abilities, and a curious mindset is essential. The path to becoming a skilled network pentester involves continuous learning, hands-on experience, and a commitment to staying updated with the latest security trends and techniques.</p>
 </div>
+
+## Skillset and Traits
+
+- Networking Proficiency: Master the intricacies of networking protocols, services, and infrastructure.
+- Critical Thinking: Analyze complex network behaviors and devise creative solutions to exploit vulnerabilities.
+- Continuous Learning: Stay up-to-date with emerging threats, tools, and defensive strategies.
 
 Check out the [Intro][https://intro.popdocs.net/] for more info.
