@@ -80,3 +80,4 @@ Hybrid topology combines two or more types, optimizing benefits while addressing
 | 3         | Network Layer               | Responsible for routing data between different networks. It determines the optimal path for data packets to travel from source to destination and handles logical addressing and subnetting.                              |
 | 2         | Data Link Layer             | Focuses on reliable point-to-point communication within a network segment. It encapsulates data into frames, handles physical addressing, error detection, and flow control, ensuring data link reliability.                 |
 | 1         | Physical Layer              | Deals with the physical medium of communication, including cables, switches, and electrical signals. It defines the hardware and transmission methods needed to transmit raw bits over a physical medium.                    |
+{: .table .table-striped .table-hover}
