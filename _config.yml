@@ -55,8 +55,11 @@ fb-page-title: PopLabResearch
 sass:
   style: compressed
 
+# google News
+publisher: "PopLab Agency"
 # Ruby Gems
 plugins: 
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-news-sitemap
 
