@@ -25,6 +25,19 @@ Understanding concepts such as LANs (Local Area Networks) and WANs (Wide Area Ne
 
 This foundation is pivotal for various roles, including network administrators, cybersecurity professionals, and penetration testers, as it underpins effective communication and safeguards against potential threats in the digital realm.
 
+## Dissecting OSI Model
+
+| OSI Layer | Layer Name                  | Description                                                                                                                                                                                                                      |
+|-----------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7         | Application Layer           | Responsible for providing network services directly to end-users or applications. It includes protocols for tasks like file transfer, email, remote access, and more.                                                        |
+| 6         | Presentation Layer          | Focuses on data translation, encryption, and compression to ensure data is presented in a usable format. It deals with formatting, encryption, and data compression for efficient transmission.                                |
+| 5         | Session Layer               | Manages and maintains communication sessions between devices. It establishes, manages, and terminates connections, allowing data exchange in an organized and synchronized manner.                                     |
+| 4         | Transport Layer             | Manages end-to-end communication and ensures data delivery with error detection and correction. It breaks down larger messages into smaller segments and handles sequencing and flow control.                                |
+| 3         | Network Layer               | Responsible for routing data between different networks. It determines the optimal path for data packets to travel from source to destination and handles logical addressing and subnetting.                              |
+| 2         | Data Link Layer             | Focuses on reliable point-to-point communication within a network segment. It encapsulates data into frames, handles physical addressing, error detection, and flow control, ensuring data link reliability.                 |
+| 1         | Physical Layer              | Deals with the physical medium of communication, including cables, switches, and electrical signals. It defines the hardware and transmission methods needed to transmit raw bits over a physical medium.                    |
+{: .table .table-striped .table-hover}
+
 ## Networking Devices
 - Router: Connects multiple networks together and forwards data packets between them.
 - Switch: Connects devices within a local network, making data forwarding more efficient than traditional hubs.
@@ -69,15 +82,3 @@ In a ring topology, devices form a circular pathway, promoting uniform data dist
 
 Hybrid topology combines two or more types, optimizing benefits while addressing drawbacks. The choice of topology depends on factors like network size, scalability, fault tolerance, and management ease.
 
-## Dissecting OSI Model
-
-| OSI Layer | Layer Name                  | Description                                                                                                                                                                                                                      |
-|-----------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 7         | Application Layer           | Responsible for providing network services directly to end-users or applications. It includes protocols for tasks like file transfer, email, remote access, and more.                                                        |
-| 6         | Presentation Layer          | Focuses on data translation, encryption, and compression to ensure data is presented in a usable format. It deals with formatting, encryption, and data compression for efficient transmission.                                |
-| 5         | Session Layer               | Manages and maintains communication sessions between devices. It establishes, manages, and terminates connections, allowing data exchange in an organized and synchronized manner.                                     |
-| 4         | Transport Layer             | Manages end-to-end communication and ensures data delivery with error detection and correction. It breaks down larger messages into smaller segments and handles sequencing and flow control.                                |
-| 3         | Network Layer               | Responsible for routing data between different networks. It determines the optimal path for data packets to travel from source to destination and handles logical addressing and subnetting.                              |
-| 2         | Data Link Layer             | Focuses on reliable point-to-point communication within a network segment. It encapsulates data into frames, handles physical addressing, error detection, and flow control, ensuring data link reliability.                 |
-| 1         | Physical Layer              | Deals with the physical medium of communication, including cables, switches, and electrical signals. It defines the hardware and transmission methods needed to transmit raw bits over a physical medium.                    |
-{: .table .table-striped .table-hover}
