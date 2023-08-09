@@ -25,6 +25,16 @@ Understanding concepts such as LANs (Local Area Networks) and WANs (Wide Area Ne
 
 This foundation is pivotal for various roles, including network administrators, cybersecurity professionals, and penetration testers, as it underpins effective communication and safeguards against potential threats in the digital realm.
 
+## Recommendations
+
+| Name   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+{: .table .table-striped .table-hover}
+
+
 ## Dissecting OSI Model
 
 | OSI Layer | Layer Name                  | Description                                                                                                                                                                                                                      |
